@@ -46,3 +46,7 @@ func main() {
 	line := nextLine()
 	fmt.Println("Result:", line)
 }
+
+```maxiumum integer ```
+maximumInteger := math.MaxInt
+
